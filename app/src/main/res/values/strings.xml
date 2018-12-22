@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Assignment5</string>
+    <string name="sign_in">Sign In</string>
+    <string name="user_mail">Username/Email</string>
+    <string name="password">Password</string>
+    <string name="signInfb">Sign in via Facebook</string>
+    <string name="success">Congratulations! You successfully logged in Facebook</string>
+    <string name="facebook_app_id">2257901250929049</string>
+    <string name="fb_login_protocol_scheme">fb2257901250929049</string>
 </resources>
